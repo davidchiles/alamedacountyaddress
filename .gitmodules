@@ -1,3 +1,6 @@
 [submodule "lib/ogr2osm"]
 	path = lib/ogr2osm
 	url = git@github.com:davidchiles/ogr2osm.git
+[submodule "lib/addressmerge"]
+	path = lib/addressmerge
+	url = git@github.com:pnorman/addressmerge.git
