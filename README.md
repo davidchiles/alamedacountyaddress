@@ -20,4 +20,5 @@ What are 'Secondary Addresses'?
 | `addr:city`       | `CITY`         					        |
 
 The following will be expanded `FEATYP`, `DIRPRE`, `DIRSUF`.
+
 What's the best way to handle capitalization?
