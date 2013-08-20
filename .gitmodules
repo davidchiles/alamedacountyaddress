@@ -1,0 +1,3 @@
+[submodule "lib/ogr2osm"]
+	path = lib/ogr2osm
+	url = git@github.com:davidchiles/ogr2osm.git
