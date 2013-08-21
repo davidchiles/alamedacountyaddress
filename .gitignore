@@ -1,4 +1,5 @@
-data/Alameda_County_Secondary_Addresses/*
+**/Alameda_County_Secondary_Addresses/
+!*.zip
 
 # Python
 *.py[cod]
