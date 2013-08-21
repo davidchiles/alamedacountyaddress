@@ -1,5 +1,6 @@
 **/Alameda_County_Secondary_Addresses/
 !*.zip
+acaddress.osm
 
 # Python
 *.py[cod]
